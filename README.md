@@ -19,11 +19,11 @@ Have fun.
 
 ## Values in geojson
 
-ARS = Amtlicher Regionalschlüssel (xx-x-xx-xxxx-xxx as Land-RB-Kreis-VWG-Gemeinde)
-GEN = Geografischer Name
-BEZ = Bezeichnung der Verwaltungseinheit
-BEM = Spezifikation für BEZ
-geometry = MultiPolygon Coordinates
+ARS = Amtlicher Regionalschlüssel (xx-x-xx-xxxx-xxx as Land-RB-Kreis-VWG-Gemeinde)  
+GEN = Geografischer Name  
+BEZ = Bezeichnung der Verwaltungseinheit  
+BEM = Spezifikation für BEZ  
+geometry = MultiPolygon Coordinates  
 
 ## Credits
 
